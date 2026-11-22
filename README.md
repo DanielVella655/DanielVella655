@@ -1,9 +1,8 @@
 ### Daniel Vella
 
+Currently a Fourth-year B.Sc. Computing Science and Mathematics student at the University of Malta. I love functional analysis and all forms of differential equations, but [googology](https://googology.fandom.com/wiki/Googology_Wiki) holds a special place in my heart. Quantum physics is also pretty damn cool.
+
 _Judge me by my proofs and not by my code_
-
-Currently a Fourth-year B.Sc. Computing Science and Mathematics student at the University of Malta. I am enthralled by functional analysis and all forms of differential equations, but googology holds a special place in my heart. Quantum physics is also pretty damn cool.
-
 <!--
 **DanielVella655/DanielVella655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
